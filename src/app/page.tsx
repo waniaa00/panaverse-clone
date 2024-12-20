@@ -1,5 +1,4 @@
-import header from "@/components/layout/header";
-import Image from "next/image";
+
 import Hero from "@/components/widgets/Hero";
 import CoreTracks from "@/components/widgets/CoreTracks";
 import SpecializedTracks from "@/components/widgets/SpecializedTracks";
